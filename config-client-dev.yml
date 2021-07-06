@@ -1,5 +1,5 @@
 server:
-  port: 778 #端口
+  port: 7778 #端口
 
 spring:
   application:
